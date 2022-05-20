@@ -1,6 +1,6 @@
 {
   "name": "react-hookies",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha",
   "description": "A library full of useful react custom hooks (hookies)",
   "main": "index.ts",
   "scripts": {

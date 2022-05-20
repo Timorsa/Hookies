@@ -6,7 +6,7 @@ import useComponentSize from './useComponentSize';
 import useRenderCounter from './useRenderCounter';
 import useDocumentTitle from './useDocumentTitle';
 import useEventListener from './useEventListener';
-import  useWhyDidYouRerender from './useWhyDidYouReRender';
+import useWhyDidYouRerender from './useWhyDidYouReRender';
 
 export {
     useToggle,
