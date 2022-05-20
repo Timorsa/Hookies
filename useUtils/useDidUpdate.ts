@@ -1,5 +1,5 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 
-const useDidUpdate = (callback:React.EffectCallback, dependancyArray:React.DependencyList) => useEffect(callback , dependancyArray);
+const useDidUpdate = (callback:React.EffectCallback, dependancyArray:React.DependencyList) => React.useEffect(callback , dependancyArray);
 
 export default useDidUpdate;

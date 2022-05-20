@@ -12,7 +12,7 @@
   },
   "keywords": [
     "hooks",
-    "react", 
+    "react",
     "react-hooks",
     "custom-hooks",
     "react-hookies",
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/Timorsa/Hookies/issues"
   },
-  "homepage": "https://github.com/Timorsa/Hookies#readme"
+  "homepage": "https://github.com/Timorsa/Hookies#readme",
+  "dependencies": {
+    "react": "^16.8.0"
+  }
 }
